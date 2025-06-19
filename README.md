@@ -1,4 +1,4 @@
-Sections
+Sections (FOIA.pdf)
 - Introduction and scope
 - To assist with public accountability regarding this fire
 - To assist with public accountability regarding the ATF investigation
