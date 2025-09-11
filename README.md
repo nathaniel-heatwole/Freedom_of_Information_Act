@@ -12,7 +12,7 @@
 
 - Audio contains information about survivability in fire environments and emergency egress behavior (that cannot be gleaned otherwise)
 
-- Provides several quotes from the fire safety engineering literature, saying the field does not ever anticipate having data of the type contained on the audio (because no ethical experiment can be conducted to obtain it)
+- Provides several direct quotes from the fire safety engineering literature, saying the field does not ever anticipate having data of the type contained on the audio (because no ethical experiment can be conducted to obtain it)
 
 - Puts forth research agenda for using the audio to further enhance public safety
 
