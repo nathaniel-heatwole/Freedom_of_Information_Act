@@ -18,4 +18,4 @@
 
 - Tests what may be a novel legal theory: whether a HD version of a record (video of the fire) can be obtained if a low-definition version exists publicly (FOIA “public domain” doctrine requires only that the records contain the same information, not that they be identical or of the same quality)
 
-- Proposes a privacy test for this case (to be applied in the complete absence of any public interests supporting release), based on the quantitative privacy thresholds used by federal agencies, and the demographic composition of the 100 deaths
+- Proposes privacy test for this case (to be applied in the complete absence of any public interests supporting release), based on the quantitative privacy thresholds used by federal agencies, and the demographic composition of the 100 deaths
