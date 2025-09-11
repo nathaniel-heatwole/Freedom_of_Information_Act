@@ -6,7 +6,7 @@
 
 - Conceptualizes the disaster using the fire triangle (heat/fuel/oxygen), arguing ATF was responsible for the "heat" component, through inadequate oversight of federally-licensed fireworks manufactures and suppliers
 
-- Records sought document – uniquely – the depths of the horrors that persons can suffer when the special trust placed in those government officials tasked with fire safety and protection is violated
+- Records sought document – uniquely – the depths of the horrors persons can suffer when the special trust placed in those government officials who are tasked with fire safety and protection is violated
 
 - ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge that can be used to improve fire safety
 
