@@ -1,4 +1,4 @@
-- Event: Station Nightclub fire disaster (2003), when illegal pyrotechnics ignited flammable acoustic form (100 deaths)
+- Station Nightclub fire disaster (2003): illegal pyrotechnics ignited flammable acoustic form (100 deaths)
 
 - Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF), and the video of the fire
 
