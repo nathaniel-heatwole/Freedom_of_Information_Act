@@ -14,7 +14,7 @@
 
 - Provides several quotes from the fire safety engineering literature, saying the field does not ever anticipate having data of the type contained on the audio (because no ethical experiment can be conducted to obtain it)
 
-- Puts forth a data and research agenda for how the audio could be used to further enhance public safety
+- Puts forth research agenda for using the audio to further enhance public safety
 
 - Tests what may be a novel legal theory: whether a HD version of a record (video of the fire) can be obtained if a low-definition version exists publicly (FOIA “public domain” doctrine requires only that the records contain the same information, not that they be identical or of the same quality)
 
