@@ -1,12 +1,12 @@
 - Event: Station Nightclub fire disaster (2003), when illegal pyrotechnics ignited flammable acoustic form (100 deaths)
 
-- Goal: obtain from the ATF two records: an audio recording from the fire (forensically recovered by ATF), and the video of the fire
+- Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF), and the video of the fire
 
 - Argues that ATF bears responsibility for the disaster, as the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of persons who are not licensed pyrotechnicians and out of venues like the Station Nightclub
 
-- Conceptualizes the disaster using the fire triangle (heat/fuel/oxygen), arguing ATF was responsible for the “heat” component, through inadequate oversight of federally-licensed fireworks manufactures and suppliers
+- Conceptualizes the disaster using the fire triangle (heat/fuel/oxygen), arguing ATF was responsible for the "heat" component, through inadequate oversight of federally-licensed fireworks manufactures and suppliers
 
-- The records sought document – uniquely – the depths of the horrors that persons can suffer when the special trust placed in those government officials who are tasked with fire safety and protection is violated
+- Records sought document – uniquely – the depths of the horrors that persons can suffer when the special trust placed in those government officials tasked with fire safety and protection is violated
 
 - ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge that can be used to improve fire safety
 
