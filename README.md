@@ -1,6 +1,6 @@
 - Event: Station Nightclub fire disaster (2003), when illegal pyrotechnics ignited flammable acoustic form (100 deaths)
 
-- Goal: obtain from the federal Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) two records: an audio recording from the fire (forensically recovered by ATF), and the video of the fire
+- Goal: obtain from the ATF two records: an audio recording from the fire (forensically recovered by ATF), and the video of the fire
 
 - Argues that ATF bears responsibility for the disaster, as the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of persons who are not licensed pyrotechnicians and out of venues like the Station Nightclub
 
