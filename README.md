@@ -10,7 +10,7 @@
 
 - ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge that can improve fire safety
 
-- Audio contains information about survivability in fire environments and emergency egress behavior that cannot be gleaned otherwise
+- Audio contains information about survivability in fire environments and emergency egress behavior (that cannot be gleaned otherwise)
 
 - Provides several quotes from the fire safety engineering literature, saying the field does not ever anticipate having data of the type contained on the audio (because no ethical experiment can be conducted to obtain it)
 
