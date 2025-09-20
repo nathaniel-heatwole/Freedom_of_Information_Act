@@ -20,7 +20,7 @@ SUMMARY
 
 - Puts forth research agenda for using the audio to further enhance public safety
 
-- Tests a potentially novel legal theory: if a HD version of a record (video of the fire) can be obtained if a low-definition version exists publicly (FOIA 'public domain' doctrine requires only that the records contain the same information, not that they be identical or of the same quality)
+- Tests a potentially novel legal theory: if a HD version of a record (video of the fire) can be obtained if a low-definition version exists publicly (FOIA 'public domain' doctrine requires only that the records contain the same information, not that they be identical)
 
 - Proposes privacy test, based on the quantitative privacy thresholds used by federal agencies, and demographic composition of the 100 deaths (to be applied in the absence of any public interests supporting release)
 
