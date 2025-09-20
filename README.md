@@ -14,6 +14,8 @@ SUMMARY
 
 - Audio contains information about survivability in fire environments and emergency egress behavior (that cannot be gleaned otherwise)
 
+- Overly conservative tenability criteria drain limited economic resources that could be better spent otherwise, while inadequate safety margins expose the public to unacceptable risk
+
 - Provides several direct quotes from the fire safety engineering literature, saying the field does not ever anticipate having data of the type contained on the audio (because no ethical experiment can be conducted to obtain it)
 
 - Puts forth research agenda for using the audio to further enhance public safety
