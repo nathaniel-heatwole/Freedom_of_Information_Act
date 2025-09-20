@@ -1,3 +1,5 @@
+SUMMARY
+
 - Station Nightclub fire disaster (2003): illegal pyrotechnics ignited flammable acoustic form (100 deaths)
 
 - Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF), and the video of the fire
@@ -19,3 +21,5 @@
 - Tests a potentially novel legal theory: whether a HD version of a record (video of the fire) can be obtained if a low-definition version exists publicly (FOIA "public domain" doctrine requires only that the records contain the same information, not that they be identical)
 
 - Proposes privacy test (to be applied in the absence of any public interests supporting release), based on the quantitative privacy thresholds used by federal agencies, and demographic composition of the 100 deaths
+
+- Learning from disasters is very important, especially if that knowledge: 1) helps the victims of the disaster; and/or 2) prevents additional victims in the future
