@@ -4,7 +4,7 @@ SUMMARY
 
 - Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF), and also the video of the fire
 
-- Fire was caused inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers
+- Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers
 
 - ATF is the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of persons who are not licensed pyrotechnicians, and out of venues like the Station Nightclub
 
