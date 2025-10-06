@@ -24,8 +24,8 @@ SUMMARY
 
 - Puts forth research agenda for using the audio data to further enhance public safety
 
-- Tests potentially novel legal theory: whether an HD version of a record (video of the fire) can be obtained if a low-definition version exists publicly ("public domain" doctrine requires only that the records contain the same information, not that they be of the same quality)
+- Tests potentially novel legal theory: whether an HD version of a record (video of the fire) can be obtained if a low-definition version exists publicly ("public domain" doctrine requires only that the records contain the same information)
 
-- Proposes privacy test based on the quantitative privacy thresholds used by federal agencies (to be applied in the absence of any public interests supporting release of the records)
+- Proposes privacy test based on the quantitative privacy thresholds used by federal agencies (to be applied in the absence of any public interests supporting release)
 
 - Learning from disasters is very important if that knowledge: 1) helps the victims of the disaster; or 2) prevents additional victims in the future
