@@ -18,9 +18,9 @@ SUMMARY
 
 - Audio contains information about survivability in fire environments and emergency egress behavior (that cannot be gleaned otherwise)
 
-- Provides several direct quotes from the fire safety engineering literature, saying the field does not anticipate ever having data of the type contained on the audio (because no ethical experiment can be conducted to obtain it)
+- Provides several direct quotes from the fire safety engineering literature, saying the field does not anticipate ever having data of the type contained on the audio
 
-- Overly conservative survivability criteria drain limited economic resources that could be better spent otherwise, while inadequate safety margins expose the public to unacceptable risk
+- Overly conservative survivability criteria drain limited societal economic resources that could be better spent otherwise, while inadequate safety margins expose the public to unacceptable risk
 
 - Puts forth research agenda for using the audio data to further enhance public safety
 
@@ -28,4 +28,4 @@ SUMMARY
 
 - Proposes privacy test based on the quantitative privacy thresholds used by federal agencies (to be applied in the absence of any public interests supporting release)
 
-- Learning from disasters is very important if that knowledge: 1) helps the victims of the disaster; or 2) prevents additional victims in the future
+- Learning from disasters is very important if that knowledge: (1) helps the victims of the disaster; or (2) prevents additional victims in the future
