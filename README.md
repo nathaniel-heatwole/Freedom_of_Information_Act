@@ -10,7 +10,7 @@ SUMMARY
 
 - Conceptualizes the disaster using the "fire triangle" (heat/fuel/oxygen), arguing inadequate ATF oversight was the cause of the "heat" component 
 
-- Records sought document (uniquely) the depths of the horrors when the special trust placed in those government officials who are tasked with fire safety and protection is violated
+- Records sought document (uniquely) the depths of the horrors that can occur when the special trust placed in those government officials who are tasked with fire safety and protection is violated
 
 - Release of these records would serve as a stark reminder to all who work in fire safety and protection of the utmost importance of this work
 
