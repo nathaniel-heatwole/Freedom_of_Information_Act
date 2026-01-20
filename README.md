@@ -8,14 +8,17 @@ SUMMARY
 
 • Wrote paper encapsulating public interests supporting release and presenting research agenda
 
+
 PUBLIC ACCOUNTABILITY
 
 • Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers, allowing these dangerous pyrotechnic devices to be diverted to the illicit market
 
 • ATF is the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of non-licensed pyrotechnicians, and out of venues such as the Station Nightclub
+
 • ATF processes for preventing deliberate misuse of the system by bad actors were either ineffective or nonexistent
 
 • Records sought document (uniquely) the depths of the horrors that can result when the special trust placed in those government officials who are tasked with fire safety and protection is violated
+
 
 PUBLIC SAFETY
 
@@ -28,6 +31,7 @@ PUBLIC SAFETY
 • Provides several direct quotes from the fire safety literature, saying the field does not ever anticipate having data of the type on the audio
 
 • Puts forth specific research agenda for using the audio data to further enhance public safety
+
 
 OTHER
 
