@@ -1,31 +1,26 @@
 SUMMARY
 
-- Station Nightclub fire disaster (2003): illegal pyrotechnics ignited flammable acoustic form (100 deaths)
+• Serving in research, strategy, advocacy, and project management capacity
+• Station Nightclub fire disaster (2003): illicit pyrotechnics ignited flammable acoustic foam (100 deaths)
+• Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF), and video of the fire
+• Wrote paper encapsulating public interests supporting release and presenting research agenda
 
-- Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF), and also the video of the fire
+PUBLIC ACCOUNTABILITY
 
-- Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers
+• Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers, allowing these dangerous pyrotechnic devices to be diverted to the illicit market
+• ATF is the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of non-licensed pyrotechnicians, and out of venues such as the Station Nightclub
+• ATF processes for preventing deliberate misuse of the system by bad actors were either ineffective or nonexistent
+• Records sought document (uniquely) the depths of the horrors that can result when the special trust placed in those government officials who are tasked with fire safety and protection is violated
 
-- ATF is the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of persons who are not licensed pyrotechnicians, and out of venues like the Station Nightclub
+PUBLIC SAFETY
 
-- Conceptualizes the disaster using the "fire triangle" (heat/fuel/oxygen), arguing inadequate ATF oversight was the cause of the "heat" component 
+• ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge to improve fire safety
+• Audio contains information about survivability in fires and emergency egress behavior (that cannot be gleaned otherwise)
+• Overly conservative survivability criteria drain limited societal economic resources that could be better spent, while inadequate safety margins expose the public to unacceptable risk
+• Provides several direct quotes from the fire safety literature, saying the field does not ever anticipate having data of the type on the audio
+• Puts forth research agenda for using the audio data to further enhance public safety
 
-- Records sought document (uniquely) the depths of the horrors that can occur when the special trust placed in those government officials who are tasked with fire safety and protection is violated
+OTHER
 
-- Release of these records would serve as a stark reminder to all who work in fire safety and protection of the utmost importance of this work
-
-- ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge to improve fire safety
-
-- Audio contains information about survivability in fire environments and emergency egress behavior (that cannot be gleaned otherwise)
-
-- Provides several direct quotes from the fire safety engineering literature, saying the field does not anticipate ever having data of the type contained on the audio
-
-- Overly conservative survivability criteria drain limited societal economic resources that could be better spent otherwise, while inadequate safety margins expose the public to unacceptable risk
-
-- Puts forth research agenda for using the audio data to further enhance public safety
-
-- Tests potentially novel legal theory: whether an HD version of a record (video of the fire) can be obtained if a low-definition version exists publicly ("public domain" doctrine requires only that the records contain the same information)
-
-- Proposes privacy test based on the quantitative privacy thresholds used by federal agencies (to be applied in the absence of any public interests supporting release)
-
-- Learning from disasters is very important if that knowledge: (1) helps the victims of the disaster; or (2) prevents additional victims in the future
+• Tests potentially novel legal theory: if a HD record (video of the fire) can be obtained if low-definition versions exist publicly (FOIA "public domain" doctrine requires only that the records contain the same information)
+• Proposes privacy test based on the quantitative privacy thresholds used by federal agencies (to be applied in the absence of any public interests supporting release)
