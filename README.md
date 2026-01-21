@@ -11,9 +11,9 @@ SUMMARY
 
 PUBLIC ACCOUNTABILITY
 
-• Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers, allowing these dangerous pyrotechnic devices to be diverted to the illicit market
+• Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers, which allowed these dangerous pyrotechnic devices to be diverted to the illicit market
 
-• ATF is the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of non-licensed pyrotechnicians, and out of venues such as the Station Nightclub
+• ATF is the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of non-licensed pyrotechnicians and out of venues such as the Station Nightclub
 
 • ATF processes for preventing deliberate misuse of the system by bad actors were either ineffective or nonexistent
 
