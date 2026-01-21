@@ -6,7 +6,7 @@ SUMMARY
 
 • Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF), and video of the fire
 
-• Wrote paper encapsulating public interests supporting release and presenting research agenda
+• Wrote paper encapsulating public interests supporting release and presenting research agenda (FOIA.pdf)
 
 
 PUBLIC ACCOUNTABILITY
@@ -35,6 +35,6 @@ PUBLIC SAFETY
 
 OTHER
 
-• Tests potentially novel legal theory: if a HD record (video of the fire) can be obtained if low-definition versions exist publicly (FOIA "public domain" doctrine requires only that the records contain the same information)
+• Tests potentially novel legal theory: if a HD record (video of the fire) can be obtained if low-definition versions exist publicly (FOIA "public domain" doctrine requires only that the records contain the same information, not that they be identical)
 
 • Proposes privacy test based on the quantitative privacy thresholds used by federal agencies (to be applied in the absence of any public interests supporting release)
