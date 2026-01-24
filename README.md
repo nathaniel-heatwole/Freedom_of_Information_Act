@@ -26,7 +26,7 @@ PUBLIC SAFETY
 
 • Overly conservative survivability criteria drain limited societal economic resources that could be better spent, while inadequate safety margins expose the public to unacceptable risk
 
-• Provides several direct quotes from the fire safety literature, saying the field does not ever anticipate having data of the type on the audio
+• Puts forth several direct quotes from the fire safety literature, saying the field does not ever anticipate having data of the type contained on the audio
 
 • Puts forth specific research agenda for using the audio data to further enhance public safety
 
