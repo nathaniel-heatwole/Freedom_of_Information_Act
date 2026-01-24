@@ -24,11 +24,9 @@ PUBLIC SAFETY
 
 • Audio contains information about survivability in fires and emergency egress behavior (that cannot be gleaned otherwise)
 
-• Overly conservative survivability criteria drain limited societal economic resources that could be better spent
-
 • Puts forth several direct quotes from the fire safety literature, saying the field does not ever anticipate having data of the type contained on the audio
 
-• Puts forth research agenda for using the audio data to further enhance public safety
+• Overly conservative survivability criteria drain limited societal economic resources that could be better spent
 
 OTHER
 
