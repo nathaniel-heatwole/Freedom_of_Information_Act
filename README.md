@@ -2,11 +2,11 @@ SUMMARY
 
 • Serving in research, strategy, advocacy, and project management capacity
 
-• Station Nightclub fire disaster (2003): illicit pyrotechnics ignited flammable acoustic foam (100 deaths)
+• Station Nightclub fire (2003): illicit pyrotechnics ignited flammable acoustic foam (100 deaths)
 
 • Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF) and video of the fire
 
-• Wrote document encapsulating public interests supporting release and presenting research agenda (FOIA.pdf)
+• Wrote document encapsulating public interests supporting release and presenting detailed research agenda (FOIA.pdf)
 
 PUBLIC ACCOUNTABILITY
 
@@ -14,9 +14,9 @@ PUBLIC ACCOUNTABILITY
 
 • ATF is the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of non-licensed pyrotechnicians and out of venues such as the Station Nightclub
 
-• ATF processes for preventing deliberate misuse of the system by bad actors were either ineffective or nonexistent
+• ATF processes for preventing deliberate misuse of the system by bad actors were either nonexistent or ineffective
 
-• Records sought document (uniquely) the depths of the horrors when the special trust placed in those government officials who are tasked with fire safety and protection is violated
+• Records sought document (uniquely) the depths of the horrors that can result when the special trust placed in those government officials who are tasked with fire safety and protection is violated
 
 PUBLIC SAFETY
 
@@ -26,10 +26,10 @@ PUBLIC SAFETY
 
 • Puts forth several direct quotes from the fire safety literature, saying the field does not ever anticipate having data of the type contained on the audio
 
-• Overly conservative survivability criteria drain limited societal economic resources that could be better spent
+• Overly conservative survivability criteria drain limited societal economic resources that could be better spent, while inadequate safety margins expose the public to unacceptable risk
 
 OTHER
 
-• Tests potentially novel legal theory: if a HD record (video of the fire) can be obtained if low-definition versions exist publicly (FOIA 'public domain' doctrine requires only that the records contain the same information, not that they be identical)
+• Tests potentially novel legal theory: if a HD record (video of the fire) can be obtained if low-definition versions exist publicly (FOIA "public domain" doctrine requires only that the records contain the same information, not that they be identical)
 
 • Proposes privacy test based on the quantitative privacy thresholds used by various federal agencies (to be applied in the absence of any public interests supporting release)
