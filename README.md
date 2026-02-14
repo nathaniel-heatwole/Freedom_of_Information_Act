@@ -30,6 +30,6 @@ PUBLIC SAFETY
 
 OTHER
 
-• Tests potentially novel legal theory: if a HD record (video of the fire) can be obtained if low-definition versions exist publicly (FOIA "public domain" doctrine requires only that the records contain the same information, not that they be identical)
+• Tests potentially novel legal theory: if a HD record (video of the fire) can be obtained if low-definition versions exist publicly (FOIA "public domain" doctrine requires only that the records contain the same information)
 
 • Proposes privacy test based on the quantitative privacy thresholds used by various federal agencies (to be applied in the absence of any public interests supporting release)
