@@ -16,7 +16,7 @@ PUBLIC ACCOUNTABILITY
 
 • ATF processes for preventing deliberate misuse of the system by bad actors were either nonexistent or ineffective
 
-• Records sought document (uniquely) the depths of the horrors that can result when the special trust placed in those government officials who are tasked with fire safety and protection is violated
+• Records sought document (uniquely) the depths of the horrors when the special trust placed in those government officials who are tasked with fire safety and protection is violated
 
 PUBLIC SAFETY
 
