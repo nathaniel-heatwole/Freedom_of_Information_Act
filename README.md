@@ -20,9 +20,9 @@ PUBLIC ACCOUNTABILITY
 
 PUBLIC SAFETY
 
-• ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge to improve fire safety
-
 • Audio contains information about survivability in fires and emergency egress behavior (that cannot be gleaned otherwise)
+
+• ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge to improve fire safety
 
 • Puts forth several direct quotes from the fire safety literature, saying the field does not ever anticipate having data of the type contained on the audio
 
