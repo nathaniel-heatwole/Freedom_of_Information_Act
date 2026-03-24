@@ -18,9 +18,11 @@ PUBLIC ACCOUNTABILITY
 
 • Records sought document (uniquely) the depths of the horrors when the special trust placed in those government officials who are tasked with fire safety and protection is violated
 
+• Release of these records would encourage ATF to be more diligent, and to develop additional fire safety recommendations, policies, and preventative measures
+
 PUBLIC SAFETY
 
-• Audio contains information about survivability in fires and emergency egress behavior (that cannot be gleaned otherwise)
+• Audio contains information about survivability in fires and emergency egress behavior (that cannot be gleaned otherwise) - a key input to risk analysis
 
 • ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge to improve fire safety
 
