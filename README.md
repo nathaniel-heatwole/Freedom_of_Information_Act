@@ -1,6 +1,6 @@
 SUMMARY
 
-• Consultant to McWatters v. ATF: serving in research, strategy, and subject expert capacity
+• Consultant to McWatters v. ATF: serving in research, strategy, and subject matter expert capacity
 
 • Station Nightclub fire (2003): illicit pyrotechnics ignited flammable acoustic foam (100 deaths)
 
@@ -30,4 +30,4 @@ PUBLIC SAFETY
 
 • Overly conservative survivability criteria drain limited economic resources that could be better spent, while inadequate safety margins expose the public to unacceptable risk
 
-• Puts forth several direct quotes from the fire safety literature, saying the field does not ever anticipate having data of the type contained on the audio
+• Puts forth several direct quotes from the fire safety literature, saying the field does not ever anticipate having data like that contained on the audio
