@@ -6,7 +6,7 @@ SUMMARY
 
 • Goal: obtain from the ATF an audio recording from the fire (forensically recovered by ATF)
 
-• Wrote document encapsulating public interest arguments supporting release and presenting detailed research agenda for using the audio (FOIA.pdf)
+• Wrote document encapsulating public interest arguments supporting release and presenting detailed research agenda (FOIA.pdf)
 
 PUBLIC ACCOUNTABILITY
 
@@ -18,15 +18,15 @@ PUBLIC ACCOUNTABILITY
 
 • Audio documents (uniquely) the depths of the horrors that can result when the special trust placed in those who are tasked with fire safety and protection is violated
 
-• Release of the audio would encourage greater vigilance on the part of ATF and others, and encourage the development and implementation of additional fire safety recommendations, policies, and preventative measures
+• Its release would encourage greater vigilance on the part of ATF and others, and the development and implementation of additional fire safety recommendations, policies, and preventative measures
 
 PUBLIC SAFETY
 
 • ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge to improve fire safety
 
-• Audio contains information about survivability in fires and emergency egress behavior (that cannot be gleaned otherwise) - key inputs to risk analysis
+• Audio contains information about survivability in fires and emergency egress behavior (key inputs to risk analysis)
 
-• Examination of the audio could allow the survivability criteria used for fires to be tested and evaluated
+• Examination of the audio could allow the survivability criteria used for fires to be evaluated
 
 • Overly conservative survivability criteria drain limited economic resources that could be better spent, while inadequate safety margins expose the public to unacceptable risk
 
