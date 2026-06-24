@@ -1,6 +1,6 @@
 SUMMARY
 
-• Consultant to McWatters v. ATF (Serving in research, strategy, advocacy, subject expert, coalition-building, and stakeholder management capacity)
+• Consultant to McWatters v. ATF (in research, strategy, advocacy, subject expert, coalition-building, and stakeholder management capacity)
 
 • Station Nightclub fire (2003): illicit pyrotechnics ignited flammable acoustic foam (100 deaths)
 
@@ -8,19 +8,19 @@ SUMMARY
 
 • Wrote document encapsulating public interest arguments supporting release and presenting detailed research agenda (FOIA.pdf)
 
-• Ultimately, I plan to write one or multiple journal articles about the experience, discussing the inconsistent and often contradictory actions of federal agencies as it relates to the release of "near-death" audio and video through the FOIA, and doing the analyses proposed in the research agenda (if the FOIA request is successful).
+• Ultimately plan to write one or multiple journal articles about the experience, discussing the inconsistent and often contradictory actions of federal agencies as it relates to releasing "near-death" audio/video through the FOIA, and doing the analyses proposed in the research agenda (if the FOIA request is successful)
 
 PUBLIC ACCOUNTABILITY
 
-• Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers and failures of federal controls on pyrotechnics
+• Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers and the failure of federal controls on pyrotechnics
 
 • ATF is the primary federal agency tasked with keeping these dangerous pyrotechnic devices out of the hands of non-licensed pyrotechnicians and out of venues such as the Station Nightclub
 
-• ATF processes for preventing deliberate misuse of the system by bad actors were either ineffective or nonexistent
+• ATF processes for detecting and preventing deliberate misuse of the system by bad actors were either ineffective or nonexistent
 
 • Audio documents (uniquely) the depths of the horrors that can result when the special trust placed in those who are tasked with fire safety and protection is violated
 
-• Its release would encourage greater vigilance on the part of ATF and others, and the development and implementation of additional fire safety recommendations, policies, and preventative measures
+• Release would encourage greater vigilance on the part of ATF and others, and the development and implementation of additional fire safety recommendations, policies, and preventative measures
 
 PUBLIC SAFETY
 
