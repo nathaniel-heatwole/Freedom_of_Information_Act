@@ -1,6 +1,6 @@
 SUMMARY
 
-• Consultant to McWatters v. ATF: serving in research, strategy, and subject matter expert capacity
+• Consultant to McWatters v. ATF (Serving in research, strategy, advocacy, subject expert, coalition-building, and stakeholder management capacity)
 
 • Station Nightclub fire (2003): illicit pyrotechnics ignited flammable acoustic foam (100 deaths)
 
@@ -8,7 +8,7 @@ SUMMARY
 
 • Wrote document encapsulating public interest arguments supporting release and presenting detailed research agenda (FOIA.pdf)
 
-• Ultimately, I plan to write one or multiple journal articles discussing the inconsistent and often contradictory actions of federal agencies as it relates to the release of "near-death" audio and video through the FOIA, and doing the analyses proposed in the research agenda (if the FOIA request is successful).
+• Ultimately, I plan to write one or multiple journal articles about the experience, discussing the inconsistent and often contradictory actions of federal agencies as it relates to the release of "near-death" audio and video through the FOIA, and doing the analyses proposed in the research agenda (if the FOIA request is successful).
 
 PUBLIC ACCOUNTABILITY
 
