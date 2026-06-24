@@ -8,6 +8,8 @@ SUMMARY
 
 • Wrote document encapsulating public interest arguments supporting release and presenting detailed research agenda (FOIA.pdf)
 
+• Ultimately, I plan to write one or multiple journal articles discussing the inconsistent and often contradictory actions of federal agencies as it relates to the release of "near-death" audio and video through the FOIA, and doing the analyses proposed in the research agenda (if the FOIA request is successful).
+
 PUBLIC ACCOUNTABILITY
 
 • Fire was caused by inadequate ATF oversight of federally-licensed fireworks manufactures and suppliers and failures of federal controls on pyrotechnics
@@ -24,7 +26,7 @@ PUBLIC SAFETY
 
 • ATF used the audio to understand the details of this particular fire event, but never for the wider purpose: creating generalizable knowledge to improve fire safety
 
-• Audio contains information about survivability in fires and emergency egress behavior (key inputs to risk analysis)
+• Audio contains information about survivability in fires and emergency egress behavior (both of which are key inputs to risk analysis)
 
 • Examination of the audio could allow the survivability criteria used for fires to be evaluated
 
