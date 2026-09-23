@@ -38,7 +38,7 @@ PUBLIC SAFETY
 
 • ATF used the audio to understand this particular fire event, but never for the wider purpose: creating generalizable knowledge to improve fire safety.
 
-• Audio record contains information about survivability in fires and emergency egress behavior (both key inputs to risk analysis and related policy-making).
+• Audio record contains information about survivability in fires and emergency egress behavior (both key inputs to risk analysis and related risk management and policy-making).
 
 • Overly conservative survivability criteria drain limited economic resources that could be better spent, while inadequate safety margins expose the public to unacceptable risk.
 
