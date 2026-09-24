@@ -10,7 +10,7 @@ SUMMARY / IMPACT
 
 • Successfully obtained 95% of the audio record – now seeking the entirety, as well as the video record
 
-• Audio allowed next-of-kin of one victim to finally know his cause of death (smoke inhalation) – giving her great solace (23 years after the fire)
+• Audio allowed next-of-kin of one victim to finally know his cause of death (smoke inhalation) – giving her great solace (22 years after the fire)
 
 • Preparing article for peer-reviewed journal on contradictions in the application of near-death privacy by federal agencies and the experiences of our FOIA coalition
 
