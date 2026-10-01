@@ -12,7 +12,7 @@ SUMMARY / IMPACT
 
 • Wrote brief encapsulating public interest arguments supporting full release of the records (FOIA.pdf)
 
-• Preparing article for peer-reviewed journal on contradictions in the application of near-death privacy rights by federal agencies and the experiences of our FOIA coalition
+• Preparing article for peer-reviewed journal on contradictions in how federal agencies apply survivor's privacy rights and the experiences of our FOIA coalition
 
 PUBLIC ACCOUNTABILITY
 
